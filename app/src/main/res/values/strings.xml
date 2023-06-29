@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BikeShared</string>
+    <string name="entrar">Iniciar Sessão</string>
+    <string name="Criar_conta">Criar Nova Conta</string>
+    <string name="titilo_cadastro">Criar conta</string>
+    <string name="bikesared">BikeShared</string>
+    <string name="confimar_cadastro">Criar Conta</string>
+    <string name="cancelar_cadastro">Cancelar</string>
+    <string name="log">Login</string>
+    <string name="bemVindo">BEM - VINDO</string>
+</resources>

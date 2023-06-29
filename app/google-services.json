@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "25735326967",
+    "firebase_url": "https://bikeshared-1d7e3-default-rtdb.firebaseio.com",
+    "project_id": "bikeshared-1d7e3",
+    "storage_bucket": "bikeshared-1d7e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25735326967:android:d362278d444fd1e30077f2",
+        "android_client_info": {
+          "package_name": "com.example.bikeshared"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25735326967-cnb9u7kp1o6luvvmp4viuqes4l60qhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4vhh7FC9RUSyrwLrqkanHXvB2-4OqZWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25735326967-cnb9u7kp1o6luvvmp4viuqes4l60qhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25735326967:android:f7ebf71dcb2d1a0b0077f2",
+        "android_client_info": {
+          "package_name": "com.example.teste001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25735326967-cnb9u7kp1o6luvvmp4viuqes4l60qhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4vhh7FC9RUSyrwLrqkanHXvB2-4OqZWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25735326967-cnb9u7kp1o6luvvmp4viuqes4l60qhek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
